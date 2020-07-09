@@ -86,6 +86,8 @@ html接口提供者因为现采用前后端分离，所以web需要重新开发�
 
 [案例项目地址](https://github.com/SSypp/ssypp-blog)
 
+[项目预览地址](http://ssypp.gitee.io)
+
 ## 项目运行
 
 ``` bash
